@@ -34,5 +34,5 @@ def takeCommand():
     return query
 
 if __name__ == "__main__":
-    takeCommand()
     speak("Hi, I'm Manish. What I can help you?")
+    takeCommand()
